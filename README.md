@@ -10,7 +10,7 @@ apt update
 apt upgrade
 pkg install git
 pkg install python
-git clone https://github.com/mw-hack/hack-image
+git clone https://github.com/mesterMt/hack-image
 cd hack-image
 python3 hackimage.py
 
@@ -33,4 +33,4 @@ python3 hackimage.py
 
 - educational video : <a href="https://t.me/Mw_hack/3751">the video</a>
 
-- Developer : <a href="https://github.com/mw-hack/mw-hack">Mr Matrix</a>
+- Developer : <a href="https://t.me/personer">Mr Matrix</a>
